@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\anuwat\source\repos\CSGO_Trigger_bot_02\CSGO_Trigger_bot_02\Main.cpp(26): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  CSGO_Trigger_bot_02.vcxproj -> C:\Users\anuwat\source\repos\CSGO_Trigger_bot_02\Debug\CSGO_Trigger_bot_02.exe
