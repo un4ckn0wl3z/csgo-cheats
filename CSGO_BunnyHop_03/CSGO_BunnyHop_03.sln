@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSGO_BunnyHop_03", "CSGO_BunnyHop_03\CSGO_BunnyHop_03.vcxproj", "{FB05E4B2-46F6-4387-9F37-6F86CD84E631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Debug|x64.ActiveCfg = Debug|x64
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Debug|x64.Build.0 = Debug|x64
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Debug|x86.Build.0 = Debug|Win32
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Release|x64.ActiveCfg = Release|x64
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Release|x64.Build.0 = Release|x64
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Release|x86.ActiveCfg = Release|Win32
+		{FB05E4B2-46F6-4387-9F37-6F86CD84E631}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AAAEB94-1814-4D3B-9613-D877497DD6F7}
+	EndGlobalSection
+EndGlobal
